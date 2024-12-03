@@ -133,6 +133,6 @@ public class EmployeeManagement {
             }
         }
 
-        scanner.close();
+
     }
 }
